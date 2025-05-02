@@ -33,7 +33,7 @@
             - types
             - stores
             - utils
-            - etc
+        - etc
     - server
         - api
             - routers // All api routers divided by modules
